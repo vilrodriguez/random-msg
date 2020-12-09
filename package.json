@@ -1,0 +1,21 @@
+{
+  "name": "random-msgs-mango",
+  "version": "1.0.0",
+  "description": "NPM package, mensajes aleatorios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "library",
+    "javascript",
+    "node"
+  ],
+  "author": "Vilmarys Rodriguez",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
