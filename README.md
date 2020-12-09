@@ -3,7 +3,6 @@
 This is a randome messages generator. They are in Spanish and English and most of them just don't make sense.
 
 I guess you might enjoy it.
-AH
 
 ## Install
 

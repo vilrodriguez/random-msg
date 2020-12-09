@@ -15,7 +15,15 @@
   "author": "Vilmarys Rodriguez",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilrodriguez/random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vilrodriguez/random-msg/issues"
+  },
+  "homepage": "https://github.com/vilrodriguez/random-msg#readme"
 }
